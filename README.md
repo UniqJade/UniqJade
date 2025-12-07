@@ -4,7 +4,7 @@ This is Yi-heng ZHAO.
 
 ## 👨‍🎓 About me
 
-I'm an undergraduate student from Shanghai Medical College, China, majoring in clinical medicine.
+I'm an undergraduate student from Shanghai Medical College, China, majoring in clinical medicine. Research interests include cardiovascular medicine.
 - ⚡ I'm interested in playing basketball and reading books.
 - 😄 I'm looking forward to translating some great medical learning videos into Chinese and spreading them around.
   - Representative work:[【Osmosis】 心包填塞 Cardiac Tamponade（中英字幕）](https://www.bilibili.com/video/BV1MksTeRE8z/?share_source=copy_web&vd_source=17af859644cf417eeb518411afecb084)
