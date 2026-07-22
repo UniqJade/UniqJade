@@ -10,7 +10,7 @@
 
 - Preparing for future research at the intersection of cardiovascular medicine and AI
 - Translating and sharing medical learning resources in Simplified Chinese
-- Off-screen: basketball 🏀 and reading 📚
+- Off-screen: basketball 🏀 and lifelong reading 📚
 
 ### 🛠️ Learning toolbox
 
@@ -27,4 +27,4 @@
 
 ### 📫 Contact
 
-[zyh2399701602@gmail.com](mailto:zyh2399701602@gmail.com)
+✉️ [zyh2399701602@gmail.com](mailto:zyh2399701602@gmail.com)
