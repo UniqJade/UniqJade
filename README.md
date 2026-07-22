@@ -34,11 +34,33 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Summary
 
 <p align="center">
-  <img height="165" alt="Yi-heng's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=UniqJade&show_icons=true&hide_border=true&title_color=e05561&icon_color=e05561" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UniqJade&layout=compact&hide_border=true&title_color=e05561" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img width="82%" alt="Profile details" src="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/default/0-profile-details.svg" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <img alt="Stats" src="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/default/3-stats.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+    <img alt="Productive time" src="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/default/4-productive-time.svg" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <img alt="Repos per language" src="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/default/1-repos-per-language.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img alt="Most commit language" src="https://raw.githubusercontent.com/UniqJade/UniqJade/main/profile-summary-card-output/default/2-most-commit-language.svg" />
+  </picture>
 </p>
 
 ### 🐍 Contribution Snake
