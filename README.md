@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cardiovascular-mark-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cardiovascular-mark-light.svg">
+    <img width="420" alt="A pulse line forming a heart and continuing into connected data points" src="./assets/cardiovascular-mark-light.svg">
+  </picture>
+</p>
+
 <h1 align="center">Hi, I'm ZHAO Yi-heng 👋</h1>
 
 <h3 align="center">Clinical Medicine Undergraduate</h3>

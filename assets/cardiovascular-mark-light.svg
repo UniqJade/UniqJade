@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 180" role="img" aria-labelledby="title desc">
+  <title id="title">Cardiovascular research mark</title>
+  <desc id="desc">A burgundy pulse line forms a heart and continues into connected data points.</desc>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 95h116l16-18 20 45 25-72 23 45h36"
+          stroke="#9f2942" stroke-width="4"/>
+    <path d="M252 95c-25-24-20-65 15-74 23-6 43 7 54 27 12-20 31-33 55-27 35 9 40 50 15 74-21 21-44 39-70 59-26-20-48-38-69-59z"
+          stroke="#9f2942" stroke-width="4"/>
+
+    <path d="M391 95c49 0 60-45 107-45s64 31 103 5"
+          stroke="#8c959f" stroke-width="2.25"/>
+    <path d="M386 112c54 28 94 29 127 4s59-13 91 4"
+          stroke="#8c959f" stroke-width="2.25"/>
+
+    <g fill="#ffffff" stroke="#9f2942" stroke-width="3">
+      <circle cx="498" cy="50" r="7"/>
+      <circle cx="601" cy="55" r="5"/>
+      <circle cx="513" cy="116" r="7"/>
+      <circle cx="604" cy="120" r="5"/>
+    </g>
+  </g>
+</svg>
